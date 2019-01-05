@@ -1,0 +1,1 @@
+# C-Menampilkan-Kelipatan-7-yang-habis-dibagi-2-dari-1-50
